@@ -68,4 +68,4 @@ responses```""")
 async def party():
     await bot.say("PARTY BITCHES @everyone")
 
-bot.run("MzM1MjE5NTEzNzEwNjA4Mzg1.DEnGxA.rMsrZ3fmdyqoA2tCdOyjd1IM6Pk")
+bot.run("bot_token")
